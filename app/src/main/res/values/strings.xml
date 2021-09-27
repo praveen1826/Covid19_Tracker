@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Covid19</string>
+    <string-array name="states">
+        <item>Andhra Pradesh</item>
+        <item>TamilNadu</item>
+        <item>telangana</item>
+    </string-array>
+    <string name="Home">Home</string>
+    <string name="Covid19info">Covid19-info</string>
+    <string name="Donate">Donate</string>
+    <string name="Billing">Illegal Billing</string>
+    <string name="Aboutus">About Us</string>
+    <string name="Bulletin">Bulletin</string>
+    <string name="TestingCenters">Testing Centers</string>
+    <string name="Symptoms">COVID-19 affects different people in different ways. Most infected people will develop mild to moderate illness and recover without hospitalization.\n\n
+
+Most common symptoms:\n
+
+>fever.\n
+>dry cough.\n
+>tiredness.\n\n
+Less common symptoms:\n
+
+>aches and pains.\n
+>sore throat.\n
+>diarrhoea.\n
+>conjunctivitis.\n
+>headache.\n
+>loss of taste or smell.\n
+>a rash on skin, or discolouration of fingers or toes.\n\n
+Serious symptoms:\n
+
+>difficulty breathing or shortness of breath.\n
+>chest pain or pressure.\n
+>loss of speech or movement.\n\n
+Seek immediate medical attention if you have serious symptoms.  Always call before visiting your doctor or health facility.\n\n
+
+People with mild symptoms who are otherwise healthy should manage their symptoms at home.\n\n
+
+On average it takes 5–6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days. </string>
+    <string name="Prevention">
+        To prevent infection and to slow transmission of COVID-19, do the following: \n\n
+>Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub.\n\n
+>Maintain at least 1 metre distance between you and people coughing or sneezing.\n\n
+>Avoid touching your face.\n\n
+>Cover your mouth and nose when coughing or sneezing.\n\n
+>Stay home if you feel unwell.\n\n
+>Refrain from smoking and other activities that weaken the lungs.\n\n
+>Practice physical distancing by avoiding unnecessary travel and staying away from large groups of people.\n\n
+</string>
+    <string name="Covid19Info">Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.\n\n
+
+Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.\n\n
+
+The best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face.\n\n
+
+The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it’s important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow).\n\n
+
+At this time, there are no specific vaccines or treatments for COVID-19. However, there are many ongoing clinical trials evaluating potential treatments. WHO will continue to provide updated information as soon as clinical findings become available.\n\n
+
+</string>
+</resources>
