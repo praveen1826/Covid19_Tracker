@@ -10,7 +10,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 
-public class MainActivity1 extends AppCompatActivity implements MyAdapter.OnNoteListener {
+public class SelectState extends AppCompatActivity implements MyAdapter.OnNoteListener {
 
     RecyclerView rv;
     String st[];
@@ -18,7 +18,7 @@ public class MainActivity1 extends AppCompatActivity implements MyAdapter.OnNote
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main2);
+        setContentView(R.layout.activity_select_state);
         rv = findViewById(R.id.rv);
         st = getResources().getStringArray(R.array.states);
 

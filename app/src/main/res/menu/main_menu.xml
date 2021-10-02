@@ -13,17 +13,14 @@
             android:id="@+id/nav_donate"
             android:title="@string/Donate" />
         <item
-            android:id="@+id/nav_illegal_billing"
-            android:title="@string/Billing" />
-        <item
             android:id="@+id/nav_bulletin"
             android:title="@string/Bulletin" />
         <item
             android:id="@+id/nav_testing_centers"
             android:title="@string/TestingCenters" />
         <item
-            android:id="@+id/nav_about_us"
-            android:title="@string/Aboutus" />
+            android:id="@+id/contact_us"
+            android:title="@string/ContactUs" />
 
     </group>
 

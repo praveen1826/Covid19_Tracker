@@ -19,12 +19,11 @@
         android:usesCleartextTraffic="true">
         <activity android:name=".TestCenters"></activity>
         <activity android:name=".Donate" />
-        <activity android:name=".About_Us" />
+        <activity android:name=".Contact_Us" />
         <activity android:name=".Bulletin" />
-        <activity android:name=".Illegal_Billing" />
         <activity android:name=".Covid19Info" />
         <activity android:name=".ApHome" />
-        <activity android:name=".MainActivity1"/>
+        <activity android:name=".SelectState"/>
         <activity android:name=".SplashScreen">
 
             <intent-filter>

@@ -127,20 +127,17 @@ public class ApHome extends AppCompatActivity implements NavigationView.OnNaviga
             case R.id.nav_covid19:
                 startActivity(new Intent(getApplicationContext(), Covid19Info.class));
                 break;
-            case R.id.nav_illegal_billing:
-                startActivity(new Intent(getApplicationContext(),Illegal_Billing.class));
-                break;
             case R.id.nav_bulletin:
                 startActivity(new Intent(getApplicationContext(),Bulletin.class));
-                break;
-            case R.id.nav_about_us:
-                startActivity(new Intent(getApplicationContext(),About_Us.class));
                 break;
             case R.id.nav_donate:
                 startActivity(new Intent(getApplicationContext(),Donate.class));
                 break;
             case R.id.nav_testing_centers:
                 startActivity(new Intent(getApplicationContext(),TestCenters.class));
+                break;
+            case R.id.contact_us:
+                startActivity(new Intent(getApplicationContext(),Contact_Us.class));
                 break;
         }
         return true;
