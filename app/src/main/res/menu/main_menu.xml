@@ -19,6 +19,9 @@
             android:id="@+id/nav_testing_centers"
             android:title="@string/TestingCenters" />
         <item
+            android:id="@+id/Vaccine"
+            android:title="Vaccine" />
+        <item
             android:id="@+id/contact_us"
             android:title="@string/ContactUs" />
 

@@ -31,6 +31,7 @@ public class ApHome extends AppCompatActivity implements NavigationView.OnNaviga
     DatabaseReference cases;
 
 
+
     // drawer
     DrawerLayout drawerLayout;
     NavigationView navigationView;
@@ -79,6 +80,7 @@ public class ApHome extends AppCompatActivity implements NavigationView.OnNaviga
 
             }
         });
+
 
     }
 
@@ -135,6 +137,9 @@ public class ApHome extends AppCompatActivity implements NavigationView.OnNaviga
                 break;
             case R.id.nav_testing_centers:
                 startActivity(new Intent(getApplicationContext(),TestCenters.class));
+                break;
+            case R.id.Vaccine:
+                startActivity(new Intent(getApplicationContext(),Vaccination.class));
                 break;
             case R.id.contact_us:
                 startActivity(new Intent(getApplicationContext(),Contact_Us.class));
