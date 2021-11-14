@@ -34,5 +34,9 @@ public class SelectState extends AppCompatActivity implements MyAdapter.OnNoteLi
             Intent intent = new Intent(this, ApHome.class);
             startActivity(intent);
         }
+        if(position==1){
+            Intent intent = new Intent(this, TnHome.class);
+            startActivity(intent);
+        }
     }
 }
