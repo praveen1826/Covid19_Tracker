@@ -18,6 +18,12 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
         <activity
+            android:name=".TnBulletin"
+            android:exported="true" />
+        <activity
+            android:name=".TnVaccine"
+            android:exported="true" />
+        <activity
             android:name=".TnHome"
             android:exported="true" />
         <activity

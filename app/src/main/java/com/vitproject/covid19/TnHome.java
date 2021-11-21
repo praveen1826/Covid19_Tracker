@@ -108,18 +108,18 @@ public class TnHome extends AppCompatActivity implements NavigationView.OnNaviga
             case R.id.nav_covid191:
                 startActivity(new Intent(getApplicationContext(), Covid19Info.class));
                 break;
-            /*case R.id.nav_bulletin1:
-                startActivity(new Intent(getApplicationContext(), Bulletin.class));
-                break;*/
+            case R.id.nav_bulletin1:
+                startActivity(new Intent(getApplicationContext(), TnBulletin.class));
+                break;
             case R.id.nav_donate1:
                 startActivity(new Intent(getApplicationContext(), DonateTn.class));
                 break;
             case R.id.nav_testing_centers1:
                 startActivity(new Intent(getApplicationContext(), TestCenters.class));
                 break;
-            /*case R.id.Vaccine1:
-                startActivity(new Intent(getApplicationContext(), Vaccination.class));
-                break;*/
+            case R.id.Vaccine1:
+                startActivity(new Intent(getApplicationContext(), TnVaccine.class));
+                break;
             case R.id.contact_us1:
                 startActivity(new Intent(getApplicationContext(), Contact_Us.class));
                 break;

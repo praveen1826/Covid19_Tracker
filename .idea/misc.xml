@@ -4,13 +4,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/thiru/AndroidStudioProjects/Covid19/app/src/main/res/layout/activity_about__us.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/thiru/AndroidStudioProjects/Covid19/app/src/main/res/layout/activity_bulletin.xml" value="0.12135416666666667" />
         <entry key="..\:/Users/thiru/AndroidStudioProjects/Covid19/app/src/main/res/layout/activity_donate.xml" value="0.12864583333333332" />
         <entry key="..\:/Users/thiru/AndroidStudioProjects/Covid19/app/src/main/res/layout/activity_donate1.xml" value="0.12864583333333332" />
         <entry key="..\:/Users/thiru/AndroidStudioProjects/Covid19/app/src/main/res/layout/activity_home.xml" value="0.2526041666666667" />
         <entry key="..\:/Users/thiru/AndroidStudioProjects/Covid19/app/src/main/res/layout/activity_illegal__billing.xml" value="0.2526041666666667" />
         <entry key="..\:/Users/thiru/AndroidStudioProjects/Covid19/app/src/main/res/layout/activity_main.xml" value="0.2526041666666667" />
         <entry key="..\:/Users/thiru/AndroidStudioProjects/Covid19/app/src/main/res/layout/activity_main2.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/thiru/AndroidStudioProjects/Covid19/app/src/main/res/layout/activity_tn_bulletin.xml" value="0.10625" />
         <entry key="..\:/Users/thiru/AndroidStudioProjects/Covid19/app/src/main/res/layout/activity_tn_home.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/thiru/AndroidStudioProjects/Covid19/app/src/main/res/layout/activity_tn_vaccine.xml" value="0.12135416666666667" />
         <entry key="..\:/Users/thiru/AndroidStudioProjects/Covid19/app/src/main/res/layout/activity_vaccination.xml" value="0.2526041666666667" />
         <entry key="..\:/Users/thiru/AndroidStudioProjects/Covid19/app/src/main/res/layout/contact_us.xml" value="0.12864583333333332" />
         <entry key="..\:/Users/thiru/AndroidStudioProjects/Covid19/app/src/main/res/layout/menu_header.xml" value="0.2526041666666667" />
